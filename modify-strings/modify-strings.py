@@ -1,0 +1,22 @@
+# What is a correct syntax to print a string in upper case letters?
+'welcome'.upper()
+
+
+# Return the string without any whitespace at the beginning or the end.
+txt = " Hello World "
+x = txt.strip()
+
+
+# Convert the value of txt to upper case.
+txt = "Hello World"
+txt = txt.upper()
+
+
+# Convert the value of txt to lower case.
+txt = "Hello World"
+txt = txt.lower()
+
+
+# Replace the character H with a J.
+txt = "Hello World"
+txt = txt.replace("H","J")
