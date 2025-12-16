@@ -1,0 +1,17 @@
+#Which one of these is a set?
+myset = {'apple', 'banana', 'cherry'}
+
+
+# True or False.
+Set items cannot be removed after the set has been created.
+# False
+
+
+# True or False.
+# A set cannot have two items with the same value.
+# True
+
+
+# Select the correct function for returning the number of items in a set:
+# fruits = {'apple', 'banana', 'cherry'}
+# print( len(fruits))

@@ -1,0 +1,16 @@
+#Which one of these is a dictionary?
+x = {'type' : 'fruit', 'name' : 'banana'}
+
+
+# Dictionary items cannot be removed after the dictionary has been created.
+# False
+
+
+# True or False.
+# A dictionary cannot have two keys with the same name.
+# True
+
+
+#Select the correct function to print the number of key/value pairs in the dictionary:
+x = {'type' : 'fruit', 'name' : 'banana'}
+print( len(x))

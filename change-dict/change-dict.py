@@ -1,0 +1,4 @@
+# Consider the following code:
+x = {'type' : 'fruit', 'name' : 'banana'}
+# What is a correct syntax for changing the type from fruit to berry?
+x['type'] = 'berry'
